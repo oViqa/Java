@@ -1,0 +1,16 @@
+EXERCICE 1
+CIN=AB3, nom=Amine, adresse=Tetouan
+Prix action Tech : 100.0
+CIN=AB3, nom=Amine, adresse=Tetouan, matricule=EMP4, entreprise=[Tech, capital=100000.0, actions=1000]
+CIN=E3, nom=Salma, adresse=Rabat, matricule=EMP9, entreprise=[Tech, capital=100000.0, actions=1000], grade=A
+
+EXERCICE 3
+ID : 10
+Appels directs :
+Voyage, Auteur : Artiste A, pour le prix exceptionnel de : 79.9
+Le Petit Prince, Antoine de Saint-Exupery (ISBN : 9782070612758)
+Appels via une reference Produit :
+Voyage, Auteur : Artiste A, pour le prix exceptionnel de : 79.9
+Le Petit Prince, Antoine de Saint-Exupery (ISBN : 9782070612758)
+
+Tests reussis : 17
